@@ -1,0 +1,11 @@
+{
+	"name": "@n0bodysec/prettier-config",
+	"version": "1.0.0",
+	"description": "My personal Prettier config",
+	"main": "index.js",
+	"homepage": "https://github.com/n0bodysec/prettier-config#readme",
+	"repository": "https://github.com/n0bodysec/prettier-config.git",
+	"bugs": "https://github.com/n0bodysec/prettier-config/issues",
+	"author": "Nobody <admin@n0bodysec.com> (https://n0bodysec.com)",
+	"license": "MIT"
+}
